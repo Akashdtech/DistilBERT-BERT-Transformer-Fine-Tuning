@@ -13,7 +13,6 @@ The first script fine-tunes the DistilBERT model on a spam message classificatio
 
     Evaluation: After training, the model's performance is evaluated on the test set using accuracy and a detailed classification report.
 
-BERT Transformer Fine-Tuning (IMDb Movie Reviews Classification)
 
 The second script fine-tunes the BERT model for sentiment analysis on the IMDb movie reviews dataset. Key steps include:
 

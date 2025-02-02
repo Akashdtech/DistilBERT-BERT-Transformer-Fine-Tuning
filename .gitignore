@@ -1,0 +1,32 @@
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore output files and directories
+*.out
+*.log
+logs/
+results/
+
+# Ignore datasets and large files
+/content/Spam messages.csv
+*.csv
+*.zip
+*.tar.gz
+*.pkl
+
+# Ignore virtual environments
+.venv/
+env/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore system and editor files
+.DS_Store
+.vscode/
+.idea/
+
+# Ignore temporary files
+*.tmp
+*.temp
